@@ -1,0 +1,33 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color:#135e81;
+  }
+  p {
+    color: red;
+  }
+  label{
+      color:  #135e81;
+      font-size: 20px;
+
+  }
+
+  button {
+    background-color: #135e81; /* Green */
+    border: none;
+    color: white;
+    padding: 9px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+  }
+  #numberDiv {
+    display: none;
+  }
+
+  #rangeHide {
+    display: inline;
+  }
